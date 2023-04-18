@@ -1,2 +1,1 @@
-# exercicios_vbnet
-Exercícios de VB.NET - Programador de Informática no IEFP
+# Exercícios de VB.NET - Programador de Informática no IEFP
