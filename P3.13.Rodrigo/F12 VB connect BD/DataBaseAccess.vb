@@ -9,10 +9,7 @@ Public Class DataBaseAccess
 
         Dim SCnova As String = "Data Source=89.1............... "
 
-        Dim SCzRodrigoAdamastor = "Data Source=62.28.39.135,62444;
-                                    Initial Catalog=zRodrigoAdamastor;
-                                    User ID=sa;
-                                    Password=123.Abc;"
+        Dim SCzRodrigoAdamastor = "STRING CONNECTION"
 
         'retornar a que é pretendida:
         Return SCzRodrigoAdamastor
