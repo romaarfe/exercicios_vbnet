@@ -13,8 +13,9 @@
 ---
 #### 🔧 FERRAMENTAS / TECNOLOGIAS:
 
-- C#
-- Windows Forms 
+- Visual Basic
+- .NET Framework
+- Forms 
 - SQL
 - SQL Server
 
